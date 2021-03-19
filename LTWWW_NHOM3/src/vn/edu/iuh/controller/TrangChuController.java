@@ -109,7 +109,19 @@ public class TrangChuController {
 		model2.addAttribute("listDanhMuc", danhMucService.getAllDanhMuc());
 		return "TrangChuView";
 	}
-
+	@RequestMapping(value = { "/gioithieu"}, method = RequestMethod.GET)
+	public String gioithieu(Model model, Model model2, HttpServletRequest request, HttpServletResponse response) {
+		return "gioithieu";
+	}
+	@RequestMapping(value = { "/tintuc"}, method = RequestMethod.GET)
+	public String tintuc(Model model, Model model2, HttpServletRequest request, HttpServletResponse response) {
+		return "tintuc";
+	}
+	@RequestMapping(value = { "/lienhe"}, method = RequestMethod.GET)
+	public String lienhe(Model model, Model model2, HttpServletRequest request, HttpServletResponse response) {
+		return "lienhe";
+	}
+	
 	@RequestMapping(value = "/giohang", method = RequestMethod.GET)
 	public String showGioHang(Model model) {
 		return "ChiTietDonHangView";

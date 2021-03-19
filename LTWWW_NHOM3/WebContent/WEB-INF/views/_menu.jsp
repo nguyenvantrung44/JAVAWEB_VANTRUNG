@@ -1,5 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
 	pageEncoding="UTF-8"%>
+
 <html>
 <body>
 <div class="heade_menunav">
@@ -13,7 +14,7 @@
 							<a class="a-img"
 								href="trangchu" title="Trang chủ"> <span>Trang chủ</span>
 							</a></li>
-							<li class="nav-item "><a class="a-img" href=""
+							<li class="nav-item "><a class="a-img" href="gioithieu"
 								title="Giới thiệu"> <span>Giới thiệu</span>
 							</a></li>
 							<li class="nav-item "><a class="a-img" href=""
@@ -29,10 +30,10 @@
 									<li><a href="tatcasanpham" title="Xe Đạp Điện DK Bike">Tất cả sản phẩm</a></li>
 									<li>
 								</ul></li>
-							<li class="nav-item "><a class="a-img" href=""
+							<li class="nav-item "><a class="a-img" href="tintuc"
 								title="Tin tức"> <span>Tin tức</span>
 							</a></li>
-							<li class="nav-item "><a class="a-img" href=""
+							<li class="nav-item "><a class="a-img" href="lienhe"
 								title="Liên hệ"> <span>Liên hệ</span>
 							</a></li>
 						</ul>

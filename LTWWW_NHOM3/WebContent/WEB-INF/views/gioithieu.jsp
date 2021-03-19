@@ -20,7 +20,7 @@
 <script src="<c:url value="/js/bootstrap.min.js" />"></script>
 <link href="<c:url value="/css/css.css"/>" rel='stylesheet'
 	type='text/css' />
-<title>Liên Hệ</title>
+<title>Giới thiệu</title>
 </head>
 
 <body>
@@ -134,7 +134,7 @@
 													class="fas fa-chervon-right"></i>&nbsp;
 											</span></li>
 
-											<li><strong><span>Liên Hệ</span></strong></li>
+											<li><strong><span>Giới thiệu</span></strong></li>
 
 										</ul>
 									</div>
@@ -149,45 +149,59 @@
 										<div class="col-xs-12 col-sm-12 col-md-12">
 											<div class="page-title category-title">
 												<h1 class="title-head">
-													<strong><a href="#">LIÊN HỆ VỚI CHÚNG TÔI</a></strong>
+													<a href="#">Giới thiệu</a>
 												</h1>
 											</div>
 											<div class="content-page rte">
 												<p style="text-align: justify;">
-													<h4><strong>Mọi thắc mắc, phản hồi xin vui lòng liên
-														hệ</strong></h4>
+													<strong>Thế giới xe điện - Mua bán trực tuyến xe
+														đạp điện trực tuyến hàng đầu Việt Nam</strong>
 												</p>
+
+												<p style="text-align: justify;">&nbsp;</p>
+
+												<p style="text-align: justify;">BẠN ĐANG TÌM KIẾM NHỮNG
+													MẪU XE ĐIỆN MỚI NHẤT TRÊN MẠNG? HÃY MUA SẮM NGAY HÔM NAY
+													TẠI THẾ GIỚI XE ĐIỆN !</p>
+
+												<p style="text-align: justify;">&nbsp;</p>
+
+												<p style="text-align: justify;">Thế giới xe điện&nbsp;sẽ
+													mang lại cho khách hàng những mẫu xe đạp điện thời trang
+													mới nhất từ các nhà sản xuất hàng đầu quốc tế. Bạn có thể
+													tìm thấy những mẫu xe mình muốn. Những trải nghiệm mới chỉ
+													có ở trang mua sắm xe đạp điện trực tuyến Thế giới xe điện.</p>
 
 												<p style="text-align: justify;">&nbsp;</p>
 
 												<p style="text-align: justify;">
-													<h4>Hotline bán hàng:
-													<span style="color: BLUE;">093.289.2233</span></h4>
+													<strong>Thế giới xe điện - Nuôi dưỡng tương lai!</strong>
 												</p>
+
+												<p style="text-align: justify;">&nbsp;</p>
+
+
+
+												<p style="text-align: justify;">&nbsp;</p>
+
+												<p style="text-align: justify;">Thế giới xe
+													điện&nbsp;luôn cập nhật những xu hướng phong cách nhất từ
+													những nhà sản xuất xe hàng đầu như HonDa hoặc Yamaha. Chất
+													lượng, phù hợp túi tiền - chỉ có ở Thế giới xe điện!</p>
 
 												<p style="text-align: justify;">&nbsp;</p>
 
 												<p style="text-align: justify;">
-													<h4>Hotline kỹ thuật, cứu hộ:
-													<span style="color: BLUE;">093.298.2233</span></h4>
+													<strong>PHONG CÁCH MUA SẮM HIỆN ĐẠI - THUẬN TIỆN,
+														THANH TOÁN AN TOÀN - DỄ DÀNG</strong>
 												</p>
 
 												<p style="text-align: justify;">&nbsp;</p>
 
-												<p style="text-align: justify;">
-													<h4>Chăm sóc khách hàng:
-													<span style="color: BLUE;">cskh@thegioixedien.vn</span></h4>
-												</p>
-
-												<p style="text-align: justify;">&nbsp;</p>
-
-
-
-												<p style="text-align: justify;">&nbsp;</p>
-
-												<p> 
-													<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.856369942465!2d106.68526211431734!3d10.822301761305715!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3174deb3ef536f31%3A0x8b7bb8b7c956157b!2zVHLGsOG7nW5nIMSQ4bqhaSBo4buNYyBDw7RuZyBuZ2hp4buHcCBUUC5IQ00!5e0!3m2!1svi!2s!4v1616171424054!5m2!1svi!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-												</p>
+												<p style="text-align: justify;">Bạn có thể mua sắm thoải
+													mái trên Thế giới xe điện&nbsp;mà không có bất kỳ lo lắng
+													nào: Bảo hành 12 tháng, xử lí trong 10 phút. Nhận hàng
+													thanh toán. Giao hàng toàn quốc</p>
 
 												<p style="text-align: justify;">&nbsp;</p>
 											</div>
